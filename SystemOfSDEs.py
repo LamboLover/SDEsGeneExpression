@@ -1,3 +1,5 @@
+# Solving the System of SDEs and plot
+
 import matplotlib.pyplot as plt
 from matplotlib import cm
 from matplotlib.ticker import LinearLocator
